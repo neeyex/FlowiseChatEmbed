@@ -47,7 +47,7 @@ export type BotProps = {
   observersConfig?: observersConfigType;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = '👋 Hi there! Iam Mr. Shihan, the Chat Maestro at Writingkatana.com. How can I assist you today?';
 
 /*const sourceDocuments = [
     {
