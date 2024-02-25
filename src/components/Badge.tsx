@@ -58,7 +58,7 @@ export const Badge = (props: Props) => {
         rel="noopener noreferrer"
         class="lite-badge"
         id="lite-badge"
-        style={{ 'font-weight': 'bold', color: props.poweredByTextColor ?? defaultTextColor }}
+        style={{ 'font-weight': 'bold', color: '#D10000' }}
       >
         <span> Writingkatana.com </span>
       </a>
